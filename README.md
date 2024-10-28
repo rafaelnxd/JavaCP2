@@ -1,8 +1,4 @@
 
-# Aplicativo para Empresa de Brinquedos
-
-Projeto desenvolvido para a disciplina de Programação Spring Boot com Persistência do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TDS) da FIAP – Faculdade de Informática e Administração Paulista.
-
 
 ## Descrição do Projeto
 
@@ -24,7 +20,7 @@ A aplicação expõe endpoints RESTful que permitem a criação e consulta de br
 1. Clone o repositório do projeto:
 
     ```bash
-    git clone "link-do-seu-repositório-github"
+    git clone https://github.com/rafaelnxd/JavaCP2
     ```
 
 2. Importe o projeto na sua IDE de preferência (Eclipse, IntelliJ, etc.):
