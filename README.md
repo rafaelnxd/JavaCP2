@@ -10,7 +10,7 @@ A aplicação expõe endpoints RESTful que permitem a criação e consulta de br
 
 - Java 17 ou superior
 - Maven
-- Banco de Dados Oracle (ORACLE_FIAP)
+- Banco de Dados Oracle 
 - SQL Developer
 - Postman
 
